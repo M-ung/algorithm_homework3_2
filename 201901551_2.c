@@ -16,6 +16,7 @@ char* makeString(int n) {
         str[i] = rand() % 26 + 'A';
     }
 
+
     return str;
 }
 
